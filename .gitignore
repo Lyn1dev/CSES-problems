@@ -7,7 +7,7 @@
 
 # VS Code workspace settings
 .vscode/
-.ignore.md
+ignore.md
 
 # OS generated files
 .DS_Store
