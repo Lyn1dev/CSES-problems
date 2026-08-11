@@ -1,0 +1,13 @@
+# Compiled C++ executables and build artifacts
+*.exe
+*.out
+*.o
+*.obj
+*.dSYM/
+
+# VS Code workspace settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
