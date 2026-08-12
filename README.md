@@ -5,7 +5,7 @@ list of everything:
 ## Introductory Problems
 
 - [Fence Painting (not CSES)](https://github.com/Lyn1dev/CSES-problems/blob/main/exercises/Introductory%20Problems/%28notcses%29_fencepainting.cpp) - USACO Bronze - I used math but you can do this simply with a vector array
-- [Teleportation (not CSES)](https://github.com/Lyn1dev/CSES-problems/blob/main/exercises/Introductory%20Problems/%28notcses%29_teleportation.cpp)
+- [Teleportation (not CSES)](https://github.com/Lyn1dev/CSES-problems/blob/main/exercises/Introductory%20Problems/%28notcses%29_teleportation.cpp) - USACO Bronze - USACO is really just a reading comprehension bro fuck farmer john
 - [Weird Algorithm](https://github.com/Lyn1dev/CSES-problems/blob/main/exercises/Introductory%20Problems/weirdalgo.cpp) 
 - [Missing Number](https://github.com/Lyn1dev/CSES-problems/blob/main/exercises/Introductory%20Problems/missingnumber.cpp)
 - [Repetitions](https://github.com/Lyn1dev/CSES-problems/blob/main/exercises/Introductory%20Problems/repititions.cpp)
