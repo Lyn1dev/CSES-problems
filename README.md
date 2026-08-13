@@ -27,4 +27,6 @@ list of everything:
 # Codeforces
 
 - [4A - Watermelon](https://github.com/Lyn1dev/CSES-problems/blob/main/exercises/codeforces/4a.cpp)
-- [4C - Registration System](https://github.com/Lyn1dev/CSES-problems/blob/main/exercises/codeforces/4c.cpp)
+- [4C - Registration System](https://github.com/Lyn1dev/CSES-problems/blob/main/exercises/codeforces/4c.cpp) - didnt finish am too dumb
+- [231A - Team](https://github.com/Lyn1dev/CSES-problems/blob/main/exercises/codeforces/231a.cpp)
+- [546A - Soldier and Bananas](https://github.com/Lyn1dev/CSES-problems/blob/main/exercises/codeforces/546a.cpp)
