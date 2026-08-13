@@ -8,8 +8,8 @@ int main() {
     std::cin >> u;
     std::vector<int> letters(256, 0); // Give me an array with exactly 256 slots in it. These are my 256 buckets. Please put the number 0 inside every single bucket so they all start completely empty.
 
-    long long n {u.length()};
-    for(long long i{}; i<n; ++i ){
+    std::size_t n {u.length()};
+    for(std::size_t i{}; i<n; ++i ){
         //Under the hood, C++ uses something called ASCII. It doesn't see the letter 'A'; it sees the integer 65. It sees 'B' as 66, 'C' as 67, and so on.
         letters[u[i]]++; // go to bucket number [whichever int that letter is] and add 1 to the count
     }
@@ -87,6 +87,6 @@ else if (oddCount == 0) {
 
 
 
+}
+}
 
-}
-}
