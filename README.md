@@ -17,3 +17,4 @@ list of everything:
 - [Bit Strings](https://github.com/Lyn1dev/CSES-problems/blob/main/exercises/Introductory%20Problems/bitstrings.cpp) 
 - [Trailing Zeros](https://github.com/Lyn1dev/CSES-problems/blob/main/exercises/Introductory%20Problems/trailingzeros.cpp) - math is my mortal enemy
 - [Coin Piles](https://github.com/Lyn1dev/CSES-problems/blob/main/exercises/Introductory%20Problems/coinpiles.cpp)
+- [Palindrome Reorder](https://github.com/Lyn1dev/CSES-problems/blob/main/exercises/Introductory%20Problems/palindromereorder.cpp)
