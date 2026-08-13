@@ -14,6 +14,6 @@ list of everything:
 - [Number Spiral](https://github.com/Lyn1dev/CSES-problems/blob/main/exercises/Introductory%20Problems/numberspiral.cpp) - ughh this made me think too hard
 - [Two Knights](https://github.com/Lyn1dev/CSES-problems/blob/main/exercises/Introductory%20Problems/twoknights.cpp) - derived the equation for finding all attacking knight pairs on a chessboard lol
 - [Two Sets](https://github.com/Lyn1dev/CSES-problems/blob/main/exercises/Introductory%20Problems/twosets.cpp) - introduction to the greedy algorithm
-- [Bit Strings](https://github.com/Lyn1dev/CSES-problems/blob/main/exercises/Introductory%20Problems/bitstrings.cpp) - math is evil
+- [Bit Strings](https://github.com/Lyn1dev/CSES-problems/blob/main/exercises/Introductory%20Problems/bitstrings.cpp) 
 - [Trailing Zeros](https://github.com/Lyn1dev/CSES-problems/blob/main/exercises/Introductory%20Problems/trailingzeros.cpp) - math is my mortal enemy
 - [Coin Piles](https://github.com/Lyn1dev/CSES-problems/blob/main/exercises/Introductory%20Problems/coinpiles.cpp)
